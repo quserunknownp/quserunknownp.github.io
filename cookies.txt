@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vsdc.creatorlink.net	TRUE	/	FALSE	1999999999	ci_userlang	korean
+.vsdc.creatorlink.net	TRUE	/	FALSE	1999999999	ci_kisession	a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227ecbba826b3a781016e911bfd8ed7f5c%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2235.191.59.53%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F4.5+%28compatible%3B+HTTrack+3.0x%3B+Windows+98%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1758792792%3B%7Df5e6ea3b4671727b8367c2a02369be4f
+
